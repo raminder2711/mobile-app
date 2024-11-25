@@ -24,17 +24,16 @@ A simple weather forecasting app built using React Native and Expo. It fetches w
 2. Install dependencies:
 
     ```bash
-
     npm install
 
 3. Run the app on Android:
 
-   
-
+    ```bash
     expo start --android
 
     Or on iOS:
-   
+
+```bash
     expo start --ios
 
 ## Files Overview
