@@ -31,10 +31,9 @@ A simple weather forecasting app built using React Native and Expo. It fetches w
     ```bash
     expo start --android
 
-    Or on iOS:
+Or on iOS:
+       expo start --ios
 
-```bash
-    expo start --ios
 
 ## Files Overview
 - src/api/weather.js: Contains functions for fetching weather data from the WeatherAPI.
