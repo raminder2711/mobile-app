@@ -29,13 +29,12 @@ A simple weather forecasting app built using React Native and Expo. It fetches w
 
 3. Run the app on Android:
 
-    ```bash
+   
 
     expo start --android
-    Or on iOS:
 
-    ```bash
-    Copy code
+    Or on iOS:
+   
     expo start --ios
 
 ## Files Overview
